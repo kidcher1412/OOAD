@@ -1,4 +1,5 @@
-
+### Đồ án PTTKHĐT
+code demo được fork từ github: https://github.com/transinh085/QuanLyKhoHangDienThoaiThongMinh.git
 ### Tài khoản Admin
 - Username: admin
 - Password: admin
